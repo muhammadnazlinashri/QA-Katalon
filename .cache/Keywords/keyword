@@ -1,0 +1,15 @@
+{
+  "keywordFileContentHash": "6F6A83B6C66D12B845800DA05EB133EF",
+  "keywordClasses": [
+    {
+      "name": "keywordBaru",
+      "keywordMethods": [
+        {
+          "name": "Hallo",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}
